@@ -3,7 +3,7 @@
 ## 목차
 
 - Git이란?
-- Git 기본 명령어
+- [Git 기본 명령어](https://github.com/saym010116/minihomepage/blob/main/git_basic_practice.md#git-%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4)
 - 브랜치와 병합
 - GitHub 사용
 - 추가 리소스
