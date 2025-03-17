@@ -3,6 +3,7 @@
 ## 스타일 구성
 
 - style.md 파일 추가
+- favorite.md 파일 추가
 
 ## 혈액형
 
